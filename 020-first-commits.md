@@ -126,14 +126,14 @@ git rev-parse HEAD~
 ```bash
 PREV_REVISION=$(git rev-parse HEAD~)
 echo The previous revision was $PREV_REVISION
-git show $PREV_REVISION:chapter-01.md
+git show $PREV_REVISION -- chapter-01.md
 ```
 
 * Although, in the end, she knows it is easier to just use the symbolic reference name:
 
 
 ```bash
-git show HEAD~:chapter-01.md
+git show HEAD~ -- chapter-01.md
 ```
 
 <details>

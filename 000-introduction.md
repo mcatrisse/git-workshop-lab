@@ -2,7 +2,7 @@
 
 Alice and Bob are writers who are collaborating on a new book. They've decided to use Git as their tool for collaborative edition, and a very ancient computer with a [model M keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard) attached to it.
 
-![Model M keyboard](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/IBM_Model_M.png/800px-IBM_Model_M.png)
+![Model M keyboard](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IBM_Model_M_Spanish_Keyboard.jpg/3840px-IBM_Model_M_Spanish_Keyboard.jpg)
 
 To get started, they'll need to set up a Git repository for the book. This will allow them to track changes to the book over time, collaborate on the book together, and easily merge their changes into a single version of the book.
 

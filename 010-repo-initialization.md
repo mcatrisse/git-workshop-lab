@@ -51,7 +51,7 @@ ls
 cat chapter-01v2.md
 ```
 
-* She quickly realizes that this tactic isn't practical at all. Luckily, Alice main job is developing software, so she is well versed on `git` and knows how to apply the tool to her other profession. First, she removes the copy:
+* She quickly realizes that this tactic isn't practical at all. Luckily, Alice main job is developing software, so she is well versed on `git` and knows how to use the tool. Therefore, she removes the copy:
 
 ```bash
 rm chapter-01v2.md
